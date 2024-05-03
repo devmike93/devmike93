@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Michael</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Ghana</b> 」
     <br>
     <br>
   </samp>
@@ -41,10 +41,10 @@
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/michael-megbenu-a2611813b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <!-- <a href="xxxxxxxxx" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://twitter.com/_alsiam" target="_blank">
